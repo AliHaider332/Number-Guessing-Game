@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     srand(time(0));
-    int number=rand()%10+1;
+    int number=rand()%100+1;
     int x;
     int iteration=0;
     cout<<" Welcome to the Number Guessing Game! "<<endl;

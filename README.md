@@ -1,6 +1,6 @@
 # 🎯 Number Guessing Game in C++
 
-This is a simple **Number Guessing Game** built using **C++**. The game generates a **random number** between **1 and 10** (you can modify the range), and the player has to guess it!
+This is a simple **Number Guessing Game** built using **C++**. The game generates a **random number** between **1 and 100** (you can modify the range), and the player has to guess it!
 
 ## 🚀 Features  
 - 🎲 **Random number generation** using `rand()`  
